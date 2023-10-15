@@ -8,7 +8,7 @@ The dislike number or count is also formatted (for example it shows 1.3M instead
 
 # Tools
 
-The scripts is written in JavaScript and uses a MutationObserver to manipulate the DOM.
+The script is written in JavaScript and uses a MutationObserver to manipulate the DOM.
 
 # Usage
 
